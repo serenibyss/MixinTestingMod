@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Mixin logger mod for when I need to get more info out of something",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": ["serenibyss"],
+    "credits": "",
+    "dependencies": []
+}]

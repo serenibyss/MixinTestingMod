@@ -1,0 +1,12 @@
+{
+  "package": "com.serenibyss.mixinloggermod.mixins",
+  "refmap": "mixins.mixinloggermod.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "MixinNetHandlerPlayClient"
+  ],
+  "server": []
+}
